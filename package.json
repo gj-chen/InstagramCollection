@@ -1,0 +1,23 @@
+{
+  "name": "gloria",
+  "version": "1.0.0",
+  "description": "Application takes a hashtag, start date, end date and returns all images in that collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gj-chen/InstagramCollection.git"
+  },
+  "keywords": [
+    "instagram",
+    "collection"
+  ],
+  "author": "Gloria Chen",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gj-chen/InstagramCollection/issues"
+  },
+  "homepage": "https://github.com/gj-chen/InstagramCollection#readme"
+}
